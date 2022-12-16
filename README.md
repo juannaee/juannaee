@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  🦄 Technologies <strong>
+  🦄 Technologies: <strong>
   Java,SpringBoot,SAP/ABAP,,HTML,CSS,JavaScript.
   MySQL,SQL Server,RPA com BluePrism e UiPath.
   </strong>
