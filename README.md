@@ -1,5 +1,5 @@
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left">  Hi, my name is Juan Guilherme, I consider myself a backend Java developer, but I'm a chameleon I adapt to where I'm placed, 
   but I admit that my preference is coding!!.</p>
@@ -12,7 +12,6 @@
  ## 🦄 Technologies:
  
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -47,15 +46,10 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  **Where to find me:**  
 
 <p align="left">
-
-   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://is.gd/juanaeegmail" /></a>
-
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)
+  [![Gmail Badge](https://img.shields.io/badge/-juangsilvalemos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juangsilvalemos@gmail.com)](mailto:juangsilvalemos@gmail.com)
   
-   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://is.gd/juanaecontatoP"/></a>
-
+  [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)
+  
 </p>  
 
 
