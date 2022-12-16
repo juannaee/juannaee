@@ -7,9 +7,9 @@
      <p align="left">  Maybe there's little content on this profile for now, but I promise I'll bring more and more over time ;).</p>
 
 
- <strong>
+
  ## 🦄 Technologies:
-    </strong>
+ 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
