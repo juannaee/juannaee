@@ -42,10 +42,18 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=juannaee&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3> :earth_americas: 🤔;Where to find me: </h3> 
+<h3> 🤔 Where to find me: </h3> 
 
-[![Linkedin: Juan Guilherme](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244)
-[![GitHub Juan Guilherme]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/juannaee)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://is.gd/juanaeegmail" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/" /></a>
+  
+   <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://is.gd/juanaecontatoP"/></a>
+
+</p>  
 
 
