@@ -31,7 +31,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Juan Guilherme](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244)
-[![Gmail Badge](https://img.shields.io/badge/-juangsilvalemos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juangsilvalemos@gmail.com)](mailto:juangsilvalemos@gmail.com)
 [![GitHub Juan Guilherme]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/juannaee)
 
 
