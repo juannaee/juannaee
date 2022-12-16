@@ -42,7 +42,7 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=juannaee&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3> :earth_americas: &nbsp;Where to find me:: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Juan Guilherme](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244)
 [![GitHub Juan Guilherme]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/juannaee)
