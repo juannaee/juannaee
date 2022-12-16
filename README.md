@@ -26,6 +26,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  
+  
+  
+  [![card](https://github-readme-stats.vercel.app/api?username=juannaee&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
