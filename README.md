@@ -26,10 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=juangsilvalemos@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/" /></a>
+[![Linkedin: Juan Guilherme](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)
+[![Gmail Badge](https://img.shields.io/badge/-juangsilvalemos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juangsilvalemos@gmail.com)](mailto:juangsilvalemos@gmail.com)
 
 
