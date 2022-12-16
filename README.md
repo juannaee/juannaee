@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-Hi, my name is Juan Guilherme, I consider myself a backend Java developer, but I'm a chameleon I adapt to where I'm placed, 
-  but I admit that my preference is coding!!.
-   I study systems analysis and development.
-    I work at a company in São Paulo-Brazil as Tech Leader Mobile and Web.
-     Maybe there's little content on this profile for now, but I promise I'll bring more and more over time ;)
-</p>
+<p align="left">  Hi, my name is Juan Guilherme, I consider myself a backend Java developer, but I'm a chameleon I adapt to where I'm placed, 
+  but I admit that my preference is coding!!.</p>
+ <p align="left">  I study systems analysis and development.</p>
+    <p align="left"> I work at a company in São Paulo-Brazil as Tech Leader Mobile and Web. </p>
+     <p align="left">  Maybe there's little content on this profile for now, but I promise I'll bring more and more over time ;).</p>
+
 
 <p align="left">
   🦄 Technologies <strong>
