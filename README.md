@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="left">  Hi, my name is Juan Guilherme, I consider myself a backend Java developer, but I'm a chameleon I adapt to where I'm placed, 
   but I admit that my preference is coding!!.</p>
@@ -37,12 +38,13 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
   
+  ## **GitHub info**
   
 [![card](https://github-readme-stats.vercel.app/api?username=juannaee&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=juannaee&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3> 🤔 Where to find me: </h3> 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  **Where to find me:**  
 
 <p align="left">
 
@@ -55,5 +57,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://is.gd/juanaecontatoP"/></a>
 
 </p>  
+
+
 
 
