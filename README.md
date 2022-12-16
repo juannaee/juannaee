@@ -20,13 +20,15 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<p align="left">
+**DevOps**
 
-  💌 Get in touch here to find out more ;): ⤵️
-</p>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-<p align="left">
-[![Linkedin: Juan Guilherme](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)
-[![Gmail Badge](https://img.shields.io/badge/-juangsilvalemos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juangsilvalemos@gmail.com)](mailto:juangsilvalemos@gmail.com)
+
+
 
 
