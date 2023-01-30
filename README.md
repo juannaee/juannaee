@@ -1,15 +1,27 @@
 
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
-<p align="left">  Hi, my name is Juan Guilherme, I'm a FullStack web programmer and study systems analysis and development.
-Currently work work at a company in São Paulo-Brazil as Tech Leader Mobile and Web.</p>
+<p align="left">  Hi, my name is Juan Guilherme, I'm a FullStack web programmer and study systems analysis and development.</p>
 <p align="left">Maybe there's little content on this profile for now, but I promise I'll bring more and more over time ;).</p>
 Português: 
-<p align="left"> Olá, meu nome é Juan Guilherme, sou programador web FullStack e estudo análise e desenvolvimento de sistemas.
-Atualmente trabalho em uma empresa em São Paulo-Brasil como Tech Leader Mobile e Web.</p>
+<p align="left"> Olá, meu nome é Juan Guilherme, sou programador web FullStack e estudo análise e desenvolvimento de sistemas.</p>
 <p align="left">Talvez haja pouco conteúdo neste perfil por enquanto, mas prometo que trarei mais e mais com o tempo ;).</p>
 
-
+## 💼 Experiences:
+YouPop (Startup no ramo de delivery e fidelização de clientes)
+Novembro/2022 - Janeiro/2023 
+Lider Técnico - Contrato PJ (Prestação de serviços) (Remoto)
+Atividades desenvolvidas
+- Desenvolvimento web FullStack;
+- Desenvolvimento de página para controle de cadastros da empresa utilizando React, SQL e Laravel;
+- Desenvolvimento de pagina institucional utilizando html, css e JavaScript;
+- Desenvolvimento de split de pagamentos;
+- Participação na criação das especificações das páginas webs; 
+- Participação no recrutamento e seleção de membros para equipe;
+- Participação na criação de identidade visual da empresa juntamente da equipe de designer, criando banners, logotipo e paleta de cores;
+- Configuração de hospedagem na hostinger;
+- Análise e planejamento de negócios;
+- Gerência de projetos webs e mobile;
 
  ## 🦄 Technologies:
  
