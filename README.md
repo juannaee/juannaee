@@ -1,17 +1,29 @@
 
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   
-<p align="left">  Hi, my name is Juan Guilherme, I'm a FullStack web programmer and study systems analysis and development.</p>
+<p align="left">  Hi, my name is Juan Guilherme, I'm a BackEnd programmer and study systems analysis and development.</p>
 <p align="left">Maybe there's little content on this profile for now, but I promise I'll bring more and more over time ;).</p>
 Português: 
-<p align="left"> Olá, meu nome é Juan Guilherme, sou programador web FullStack e estudo análise e desenvolvimento de sistemas.</p>
+<p align="left"> Olá, meu nome é Juan Guilherme, sou programador BackEnd e estudo análise e desenvolvimento de sistemas.</p>
 <p align="left">Talvez haja pouco conteúdo neste perfil por enquanto, mas prometo que trarei mais e mais com o tempo ;).</p>
 
 ## 💼 Experiences:
-YouPop (Startup no ramo de delivery e fidelização de clientes)
-Novembro/2022 - Janeiro/2023 
-Lider Técnico - Contrato PJ (Prestação de serviços) (Remoto)
-Atividades desenvolvidas
+
+Mayk Soluções (Empresa de televendas) <br>
+fevereiro de 2023 - o momento <br>
+Estagiário de TI <br>
+Recife, Pernambuco, Brasil <br>
+Atividades desenvolvidas:
+- Desenvolvimento de aplicações e microsServiços com Java e SpringFramework
+- Suporte de hardware 
+- Administração de banco de dados
+Competências: Angular (Framework) · SQL · Microsoft Excel · HTML · CSS · Bootstrap 
+· Spring Framework · Suporte técnico · Banco de dados · Java
+---------------------------------------------------------------------------------------------------------------------------------------------------
+YouPop (Startup no ramo de delivery e fidelização de clientes) <br>
+Novembro de 2022 - Janeiro de 2023  <br>
+Lider Técnico - Contrato PJ (Prestação de serviços) (Remoto) <br>
+Atividades desenvolvidas:
 - Desenvolvimento web FullStack;
 - Desenvolvimento de página para controle de cadastros da empresa utilizando React, SQL e Laravel;
 - Desenvolvimento de pagina institucional utilizando html, css e JavaScript;
