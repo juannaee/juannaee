@@ -96,3 +96,6 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
   [![Linkedin Badge](https://img.shields.io/badge/-JuanGuilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)
   
 </p>
+
+![Ciência de Dados](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
