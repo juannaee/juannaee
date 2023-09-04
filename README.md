@@ -13,20 +13,28 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
 - **Localização:** Recife, Pernambuco, Brasil
 - **Período:** Desde fevereiro de 2023
 
+**Competências:** 
+- Java (Spring Framework)
+- Suporte Técnico (Hardware)
+- Administração de Banco de Dados (SQL)
+- Python (Automatização)
+- Django (Desenvolvimento Web)
+- Excel (Análise de Dados)
+- Web Scraping (Python)
+- Dashboards Interativos
+
 **Atividades Desenvolvidas:**
 - Desenvolvimento de aplicações e microsServiços com Java e SpringFramework.
 - Suporte de hardware.
 - Administração de banco de dados.
-
-**Competências:** Angular (Framework) · SQL · Microsoft Excel · HTML · CSS · Bootstrap · Spring Framework · Suporte técnico · Banco de dados · Java · Python · Django 
-
-### Experiência com Python e Automação
-
 - Desenvolvimento de scripts em Python para automatizar tarefas relacionadas a bancos de dados SQL, como importação/exportação de dados, geração de relatórios automatizados, migração de dados, etc.
 - Experiência em usar bibliotecas Python, como SQLAlchemy ou pyodbc, para se conectar a bancos de dados SQL, executar consultas e manipular dados de forma programática.
 - Desenvolvimento de scripts Python para automatizar tarefas envolvendo planilhas do Excel, como análise de dados, geração de gráficos automatizados, extração de dados de planilhas, etc.
 - Experiência em usar Python para coletar dados da web por meio de técnicas de web scraping, processando esses dados e armazenando-os em bancos de dados ou planilhas.
 - Desenvolvimento de soluções Python para automatizar processos de negócios, melhorar a eficiência e reduzir erros manuais.
+- Desenvolvimento de projetos web utilizando o Django, implementando soluções robustas e escaláveis para atender às necessidades de negócios, incluindo autenticação de usuários, gerenciamento de dados e APIs RESTful.
+- Desenvolvimento de interfaces gráficas de usuário (GUI) para aplicativos desktop utilizando o PySide6, proporcionando aos usuários experiências intuitivas e funcionais.
+- Criação de dashboards web interativos para apresentação e visualização de dados, utilizando tecnologias como Django, HTML, CSS, JavaScript e bibliotecas de visualização de dados.
 
 ### YouPop (Startup de Delivery e Fidelização de Clientes)
 
@@ -87,4 +95,4 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
   [![Gmail Badge](https://img.shields.io/badge/-juangsilvalemos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juangsilvalemos@gmail.com)](mailto:juangsilvalemos@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-JuanGuilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)](https://www.linkedin.com/in/juan-guilherme-silva-lemos-40b516244/)
   
-</p>  
+</p>
