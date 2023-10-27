@@ -9,32 +9,27 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
 
 ### Mayk Soluções (Empresa de Televendas)
 
-- **Cargo:** Estagiário de TI
+- **Cargo:** Administrador de Banco de Dados / Desenvolvedor Python
 - **Localização:** Recife, Pernambuco, Brasil
 - **Período:** Desde fevereiro de 2023
 
 **Competências:** 
-- Java (Spring Framework)
-- Suporte Técnico (Hardware)
+- Suporte Técnico (Hardware) 
 - Administração de Banco de Dados (SQL)
 - Python (Automatização)
 - Django (Desenvolvimento Web)
 - Excel (Análise de Dados)
 - Web Scraping (Python)
-- Dashboards Interativos
 
 **Atividades Desenvolvidas:**
-- Desenvolvimento de aplicações e microsServiços com Java e SpringFramework.
-- Suporte de hardware.
-- Administração de banco de dados.
-- Desenvolvimento de scripts em Python para automatizar tarefas relacionadas a bancos de dados SQL, como importação/exportação de dados, geração de relatórios automatizados, migração de dados, etc.
-- Experiência em usar bibliotecas Python, como SQLAlchemy ou pyodbc, para se conectar a bancos de dados SQL, executar consultas e manipular dados de forma programática.
-- Desenvolvimento de scripts Python para automatizar tarefas envolvendo planilhas do Excel, como análise de dados, geração de gráficos automatizados, extração de dados de planilhas, etc.
-- Experiência em usar Python para coletar dados da web por meio de técnicas de web scraping, processando esses dados e armazenando-os em bancos de dados ou planilhas.
-- Desenvolvimento de soluções Python para automatizar processos de negócios, melhorar a eficiência e reduzir erros manuais.
-- Desenvolvimento de projetos web utilizando o Django, implementando soluções robustas e escaláveis para atender às necessidades de negócios, incluindo autenticação de usuários, gerenciamento de dados e APIs RESTful.
-- Desenvolvimento de interfaces gráficas de usuário (GUI) para aplicativos desktop utilizando o PySide6, proporcionando aos usuários experiências intuitivas e funcionais.
-- Criação de dashboards web interativos para apresentação e visualização de dados, utilizando tecnologias como Django, HTML, CSS, JavaScript e bibliotecas de visualização de dados.
+- Desenvolvimento de scripts em Python para automatizar tarefas relacionadas a bancos de dados SQL.
+- Desenvolvimento de scripts Python para automatizar tarefas envolvendo planilhas do Excel.
+- Coleta de dados da web por meio de técnicas de web scraping.
+- Desenvolvimento de projetos web utilizando o Django.
+- Configurações de VPN Site To Site
+- Configurações de CRM - MakeSystem
+- Configurações do sistema - VonixPhone / Tristerix
+
 
 ### YouPop (Startup de Delivery e Fidelização de Clientes)
 
@@ -46,12 +41,13 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
 - Desenvolvimento de página para controle de cadastros da empresa utilizando React, SQL e Laravel.
 - Desenvolvimento de página institucional utilizando HTML, CSS e JavaScript.
 - Desenvolvimento de split de pagamentos.
-- Participação na criação das especificações das páginas webs.
+- Participação na criação das especificações das páginas web.
 - Participação no recrutamento e seleção de membros para equipe.
 - Participação na criação de identidade visual da empresa, incluindo banners, logotipo e paleta de cores.
-- Configuração de hospedagem na hostinger.
+- Configuração de hospedagem na Hostinger.
 - Análise e planejamento de negócios.
-- Gerência de projetos webs e mobile.
+- Gerência de projetos web e mobile.
+
 
 ## 🛠️ Tecnologias
 
