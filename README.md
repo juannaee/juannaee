@@ -9,7 +9,7 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
 
 ### Mayk Soluções (Empresa de Televendas)
 
-- **Cargo:** Administrador de Banco de Dados / Desenvolvedor Python
+- **Cargo:** Administrador de Banco de Dados / Desenvolvedor WEB
 - **Localização:** Recife, Pernambuco, Brasil
 - **Período:** Desde fevereiro de 2023
 
