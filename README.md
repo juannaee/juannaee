@@ -3,18 +3,18 @@
 
 ## 👋 Sobre Mim
 
-Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sistemas de análise e desenvolvimento. Apesar de ter pouco conteúdo neste perfil no momento, prometo que estarei trazendo mais experiências e projetos ao longo do tempo. 😊
+Olá! Meu nome é Juan Guilherme, sou **desenvolvedor Web e Especialista em Automação de Processos** com paixão em análise e desenvolvimento de sistemas. Apesar de ter pouco conteúdo neste perfil no momento, prometo que estarei trazendo mais experiências e projetos ao longo do tempo. 😊
 
 ## 💼 Experiências
 
 ### Mayk Soluções (Empresa de Televendas)
 
-- **Cargo:** Desenvolvedor Web e Especialista em Automação de Processos
+- **Cargo:** Programador de sistemas
 - **Localização:** Recife, Pernambuco, Brasil
 - **Período:** Outubro de 2024 - o momento.
 
 **Competências:** 
-Spring Framework · Spring Data · Hibernate · maven · NoSQL · SQL · Análise de dados · Dashboards · Processos empresariais · excel · Angular (Framework) · Análise de negócios · Banco de dados · Desenvolvimento Java
+Spring Framework · Spring Data · Hibernate · maven · NoSQL · SQL · Análise de dados · Dashboards · Processos empresariais · excel · Angular (Framework) · Análise de negócios · Banco de dados · Desenvolvimento Java · Padrões de projeto de software · Design de software · Design de arquitetura de software · Design de processos de negócios · Painéis de desempenho · Métricas de dashboard · Programação de robôs
 
 **Atividades Desenvolvidas:**
 
