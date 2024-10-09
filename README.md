@@ -9,31 +9,87 @@ Olá! Meu nome é Juan Guilherme, sou um programador BackEnd com paixão por sis
 
 ### Mayk Soluções (Empresa de Televendas)
 
-- **Cargo:** Administrador de Banco de Dados / Desenvolvedor WEB
+- **Cargo:** Desenvolvedor Web e Especialista em Automação de Processos
 - **Localização:** Recife, Pernambuco, Brasil
-- **Período:** Desde fevereiro de 2023
+- **Período:** Outubro de 2024 - o momento.
 
 **Competências:** 
-- Suporte Técnico (Hardware) 
-- Administração de Banco de Dados (SQL)
-- Python (Automatização)
-- Django (Desenvolvimento Web)
-- Excel (Análise de Dados)
-- Web Scraping (Python)
+Spring Framework · Spring Data · Hibernate · maven · NoSQL · SQL · Análise de dados · Dashboards · Processos empresariais · excel · Angular (Framework) · Análise de negócios · Banco de dados · Desenvolvimento Java
 
 **Atividades Desenvolvidas:**
-- Desenvolvimento de scripts em Python para automatizar tarefas relacionadas a bancos de dados SQL.
-- Desenvolvimento de scripts Python para automatizar tarefas envolvendo planilhas do Excel.
-- Coleta de dados da web por meio de técnicas de web scraping.
-- Desenvolvimento de projetos web utilizando o Django.
-- Configurações de VPN Site To Site
-- Configurações de CRM - MakeSystem
-- Configurações do sistema - VonixPhone / Tristerix
+
+*Java e Spring Boot:*
+
+- Criação de microsserviços web com Spring Boot, garantindo a escalabilidade e integração eficiente dos sistemas.
+- Programação backend com Java (Spring Boot), integrando com bancos de dados SQL e NoSQL, assegurando a robustez e eficiência das aplicações.
+- Tratamento de dados e automação de processos, utilizando Spring Boot e Excel para gerar insights estratégicos.
+
+*PHP e Laravel:*
+
+- Desenvolvimento e manutenção de sistemas web utilizando Laravel, garantindo a estabilidade e evolução contínua dos produtos.
+- Implementação de melhorias nos sistemas da empresa, sempre focado na otimização e segurança das aplicações.
+
+*JavaScript, React e Angular:*
+
+- Desenvolvimento de interfaces dinâmicas com React, proporcionando uma experiência de usuário intuitiva e eficiente.
+- Aprendizado de Angular para desenvolvimento de novas funcionalidades no CRM, trazendo modernização e melhores práticas ao sistema.
+
+*Python e Automação:*
+
+- Criação e manutenção de dashboards automatizados utilizando Python para geração de relatórios de vendas, mailing, premiações e controle de status de vendas, garantindo análises precisas e rápidas.
+- Uso de Python para automação de processos, aumentando a eficiência e produtividade no setor.
+
+*Excel e Relatórios:*
+
+- Automação de relatórios avançados com Excel, integrando-os com Python para uma análise de dados mais detalhada.
+- Criação de dashboards interativos em Excel, facilitando a visualização de indicadores e métricas de desempenho.
+
+*Supervisão e Liderança:*
+
+- Supervisão de estagiário, oferecendo orientação técnica e promovendo um ambiente de aprendizado contínuo.
+- Suporte no desenvolvimento e implementação de novas soluções, garantindo alinhamento com os objetivos da empresa.
+
+### Mayk Soluções (Empresa de Televendas)
+
+- **Cargo:** Administrador de Banco de Dados
+- **Localização:** Recife, Pernambuco, Brasil
+- **Período:** Setembro de 2023 a Setembro de 2024 
+
+**Competências:** 
+CSS · Suporte técnico · Bootstrap · Spring Framework · HTML · Microsoft Excel · SQL · Banco de dados · Angular (Framework) · Java · Desenvolvimento Java · Programação de robôs · Lado do servidor · Robôs · Design de software · Processos empresariais · Painéis do Excel · Painéis de desempenho · Dashboards · Análise de negócios · Centro de processamento de dados
+
+**Atividades Desenvolvidas:**
+- Desenvolvimento de scripts em Python para automação de tarefas, otimizando a gestão e manipulação de bancos de dados SQL.
+- Automação avançada de processos no Excel utilizando Python e VBA, proporcionando maior eficiência e redução de tempo em tarefas repetitivas.
+- Criação de microsserviços web com Spring Boot, contribuindo para a escalabilidade e integração de sistemas.
+- Coleta de dados da web por meio de técnicas de web scraping, obtendo informações relevantes para análises e relatórios.
+- Configuração e manutenção de VPNs Site-to-Site, além de mapeamento de rede, garantindo conectividade segura entre diferentes locais.
+- Suporte em TI e gestão da infraestrutura de rede, assegurando o bom funcionamento dos sistemas e a continuidade dos serviços.
+- Elaboração de relatórios de premiação de vendas para todos os vendedores da empresa, garantindo precisão e transparência na distribuição de incentivos.
+- Desenvolvimento de relatórios detalhados de mailing e vendas para pessoa física (PF) com um gerencial totalmente automatizado, utilizando Excel avançado e Python, facilitando a análise e tomada de decisão.
+- Automação de bases de vendas, incluindo o monitoramento de status de ativação, cancelamentos e desconexões, assegurando a atualização constante das informações.
+- Criação de dashboards interativos em Excel, com automações integradas via Python e suas bibliotecas, oferecendo uma visualização clara e dinâmica dos indicadores de desempenho.
 
 
+### Mayk Soluções (Empresa de Televendas)
+
+- **Cargo:** Estagiário de TI
+- **Localização:** Recife, Pernambuco, Brasil
+- **Período:** Fevereiro de 2023 a Setembro de 2023
+
+**Competências:** 
+Infraestrutura de tecnologia da informação · Suporte técnico · Solução de problemas de hardware · Instalação de software · IPsec · VPN (Rede privada virtual) · Mikrotik · Suporte de hardware de TI · Arquitetura de rede · Instalação de hardware · Montagem de hardware de computador
+
+**Atividades Desenvolvidas:**
+- Realização de manutenção de hardware, garantindo o pleno funcionamento dos equipamentos e a rápida resolução de problemas.
+- Suporte helpdesk, tanto presencial quanto remoto, auxiliando usuários na solução de problemas técnicos e no uso de sistemas.
+- Assistência no gerenciamento de políticas de acesso e usuários, garantindo conformidade e segurança nas permissões de acesso.
+- Acompanhamento na implementação de túneis IPsec, contribuindo para a segurança e a integridade das comunicações entre redes.
+- Apoio na configuração de ADVPN para habilitar túneis sob demanda entre sites, otimizando a conectividade e a eficiência das redes.
+- Assistência no monitoramento e gerenciamento de eventos de segurança de rede, ajudando a identificar e responder a potenciais ameaças e incidentes.
 ### YouPop (Startup de Delivery e Fidelização de Clientes)
 
-- **Cargo:** Desenvolvedor WEB (Contrato PJ - Remoto)
+- **Cargo:** Desenvolvedor WEB (Contrato Freelance - Remoto)
 - **Período:** Novembro de 2022 a Janeiro de 2023
 
 **Atividades Desenvolvidas:**
