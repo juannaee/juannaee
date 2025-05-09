@@ -11,7 +11,7 @@ Olá! Meu nome é Juan Guilherme, sou **desenvolvedor Web e Especialista em Auto
 
 - **Cargo:** Programador de sistemas
 - **Localização:** Recife, Pernambuco, Brasil
-- **Período:** Outubro de 2024 - o momento.
+- **Período:** Outubro de 2024 - Dezembro 2024.
 
 **Competências:** 
 Spring Framework · Spring Data · Hibernate · maven · NoSQL · SQL · Análise de dados · Dashboards · Processos empresariais · excel · Angular (Framework) · Análise de negócios · Banco de dados · Desenvolvimento Java · Padrões de projeto de software · Design de software · Design de arquitetura de software · Design de processos de negócios · Painéis de desempenho · Métricas de dashboard · Programação de robôs
