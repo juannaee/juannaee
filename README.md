@@ -1,138 +1,145 @@
-<!-- Seu GIF de apresentação -->
+# 👋 Olá, eu sou o Juan Guilherme
+
+Sou **Desenvolvedor Backend Java Pleno**, atuando principalmente com **sistemas de saúde (TISS)**, automação de processos e arquiteturas orientadas a metadata.  
+Trabalho com foco em **robustez, clareza de domínio e integração entre sistemas complexos**, sempre equilibrando regra de negócio, dados e infraestrutura.
+
+## 🧠 O que eu faço hoje (na prática)
+
+Atualmente atuo em um **sistema de faturamento e retorno de glosas em saúde (TISS)**, onde trabalho com uma arquitetura bem orientada a **metadata + integrações**, incluindo:
+
+<!-- GIF de apresentação -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## 👋 Sobre Mim
+- **TISS / ANS na veia**
+  - Processamento, **binding** e validação de **XMLs** conforme **XSD da ANS**
+  - Geração de arquivos TISS via **JAXB/WSDL** (montagem de estruturas, hash/epílogo, etc.)
 
-Olá! Meu nome é Juan Guilherme, sou **desenvolvedor Web e Especialista em Automação de Processos** com paixão em análise e desenvolvimento de sistemas. Apesar de ter pouco conteúdo neste perfil no momento, prometo que estarei trazendo mais experiências e projetos ao longo do tempo. 😊
+- **Back-end Java**
+  - Desenvolvimento de **APIs REST** e integrações **SOAP** com **Spring Boot**
+  - Modelagem e persistência em **PostgreSQL**
 
-## 💼 Experiências
+- **Metadata-driven UI (backend que monta a tela)**
+  - Geração dinâmica de **tabelas, formulários, tabs, modais e fluxos**
+  - Enriquecimento de página via **RawPageDTO / RawMetaNodeDTO**
+  - Atualização de metadata em runtime (ex.: resposta **HTTP 206 Partial Content**)
 
-### Mayk Soluções (Empresa de Televendas)
+- **Dictionary/Instructions Engine**
+  - Execução de **instruções SQL armazenadas em banco** (object_dictionary/object)
+  - Suporte a parâmetros nomeados e **normalização automática de JSON** (string → Map/List)
 
-- **Cargo:** Programador de sistemas
-- **Localização:** Recife, Pernambuco, Brasil
-- **Período:** Outubro de 2024 - Dezembro 2024.
+- **Interoperabilidade com Agents**
+  - Criação e gestão de **jobs** (PENDING → status atualizado pelo agent)
+  - Integração de agents para **ingestão, processamento e persistência** de dados
 
-**Competências:** 
-Spring Framework · Spring Data · Hibernate · maven · NoSQL · SQL · Análise de dados · Dashboards · Processos empresariais · excel · Angular (Framework) · Análise de negócios · Banco de dados · Desenvolvimento Java · Padrões de projeto de software · Design de software · Design de arquitetura de software · Design de processos de negócios · Painéis de desempenho · Métricas de dashboard · Programação de robôs
-
-**Atividades Desenvolvidas:**
-
-*Java e Spring Boot:*
-
-- Criação de microsserviços web com Spring Boot, garantindo a escalabilidade e integração eficiente dos sistemas.
-- Programação backend com Java (Spring Boot), integrando com bancos de dados SQL e NoSQL, assegurando a robustez e eficiência das aplicações.
-- Tratamento de dados e automação de processos, utilizando Spring Boot e Excel para gerar insights estratégicos.
-
-*PHP e Laravel:*
-
-- Desenvolvimento e manutenção de sistemas web utilizando Laravel, garantindo a estabilidade e evolução contínua dos produtos.
-- Implementação de melhorias nos sistemas da empresa, sempre focado na otimização e segurança das aplicações.
-
-*JavaScript, React e Angular:*
-
-- Desenvolvimento de interfaces dinâmicas com React, proporcionando uma experiência de usuário intuitiva e eficiente.
-- Aprendizado de Angular para desenvolvimento de novas funcionalidades no CRM, trazendo modernização e melhores práticas ao sistema.
-
-*Python e Automação:*
-
-- Criação e manutenção de dashboards automatizados utilizando Python para geração de relatórios de vendas, mailing, premiações e controle de status de vendas, garantindo análises precisas e rápidas.
-- Uso de Python para automação de processos, aumentando a eficiência e produtividade no setor.
-
-*Excel e Relatórios:*
-
-- Automação de relatórios avançados com Excel, integrando-os com Python para uma análise de dados mais detalhada.
-- Criação de dashboards interativos em Excel, facilitando a visualização de indicadores e métricas de desempenho.
-
-*Supervisão e Liderança:*
-
-- Supervisão de estagiário, oferecendo orientação técnica e promovendo um ambiente de aprendizado contínuo.
-- Suporte no desenvolvimento e implementação de novas soluções, garantindo alinhamento com os objetivos da empresa.
-
-### Mayk Soluções (Empresa de Televendas)
-
-- **Cargo:** Administrador de Banco de Dados
-- **Localização:** Recife, Pernambuco, Brasil
-- **Período:** Setembro de 2023 a Setembro de 2024 
-
-**Competências:** 
-CSS · Suporte técnico · Bootstrap · Spring Framework · HTML · Microsoft Excel · SQL · Banco de dados · Angular (Framework) · Java · Desenvolvimento Java · Programação de robôs · Lado do servidor · Robôs · Design de software · Processos empresariais · Painéis do Excel · Painéis de desempenho · Dashboards · Análise de negócios · Centro de processamento de dados
-
-**Atividades Desenvolvidas:**
-- Desenvolvimento de scripts em Python para automação de tarefas, otimizando a gestão e manipulação de bancos de dados SQL.
-- Automação avançada de processos no Excel utilizando Python e VBA, proporcionando maior eficiência e redução de tempo em tarefas repetitivas.
-- Criação de microsserviços web com Spring Boot, contribuindo para a escalabilidade e integração de sistemas.
-- Coleta de dados da web por meio de técnicas de web scraping, obtendo informações relevantes para análises e relatórios.
-- Configuração e manutenção de VPNs Site-to-Site, além de mapeamento de rede, garantindo conectividade segura entre diferentes locais.
-- Suporte em TI e gestão da infraestrutura de rede, assegurando o bom funcionamento dos sistemas e a continuidade dos serviços.
-- Elaboração de relatórios de premiação de vendas para todos os vendedores da empresa, garantindo precisão e transparência na distribuição de incentivos.
-- Desenvolvimento de relatórios detalhados de mailing e vendas para pessoa física (PF) com um gerencial totalmente automatizado, utilizando Excel avançado e Python, facilitando a análise e tomada de decisão.
-- Automação de bases de vendas, incluindo o monitoramento de status de ativação, cancelamentos e desconexões, assegurando a atualização constante das informações.
-- Criação de dashboards interativos em Excel, com automações integradas via Python e suas bibliotecas, oferecendo uma visualização clara e dinâmica dos indicadores de desempenho.
+- **AWS (contexto de operação)**
+  - Atuação em ambiente AWS, incluindo **EC2** (execução/infra) e **DynamoDB** (persistência complementar)
 
 
-### Mayk Soluções (Empresa de Televendas)
+---
 
-- **Cargo:** Estagiário de TI
-- **Localização:** Recife, Pernambuco, Brasil
-- **Período:** Fevereiro de 2023 a Setembro de 2023
+## 💼 Experiência Profissional
 
-**Competências:** 
-Infraestrutura de tecnologia da informação · Suporte técnico · Solução de problemas de hardware · Instalação de software · IPsec · VPN (Rede privada virtual) · Mikrotik · Suporte de hardware de TI · Arquitetura de rede · Instalação de hardware · Montagem de hardware de computador
+### 🏥 MV — Desenvolvedor Backend Java Pleno  
+**Agosto de 2025 – Atual | Recife/PE | Presencial**
 
-**Atividades Desenvolvidas:**
-- Realização de manutenção de hardware, garantindo o pleno funcionamento dos equipamentos e a rápida resolução de problemas.
-- Suporte helpdesk, tanto presencial quanto remoto, auxiliando usuários na solução de problemas técnicos e no uso de sistemas.
-- Assistência no gerenciamento de políticas de acesso e usuários, garantindo conformidade e segurança nas permissões de acesso.
-- Acompanhamento na implementação de túneis IPsec, contribuindo para a segurança e a integridade das comunicações entre redes.
-- Apoio na configuração de ADVPN para habilitar túneis sob demanda entre sites, otimizando a conectividade e a eficiência das redes.
-- Assistência no monitoramento e gerenciamento de eventos de segurança de rede, ajudando a identificar e responder a potenciais ameaças e incidentes.
-### YouPop (Startup de Delivery e Fidelização de Clientes)
+Atuação em sistema de faturamento hospitalar e retorno de glosas no padrão **TISS (ANS)**.
 
-- **Cargo:** Desenvolvedor WEB (Contrato Freelance - Remoto)
-- **Período:** Novembro de 2022 a Janeiro de 2023
+**Principais responsabilidades:**
+- Desenvolvimento de **APIs REST e integrações SOAP** utilizando Spring Boot.
+- Processamento, binding e validação de **XMLs TISS** conforme **XSD da ANS**, utilizando **JAXB**.
+- Modelagem de dados e construção de **schemas no PostgreSQL**.
+- Desenvolvimento de **engines internas baseadas em metadata** para geração dinâmica de:
+  - Formulários
+  - Tabelas
+  - Fluxos de tela
+- Atuação próxima ao front-end, garantindo **consistência entre metadata, dados e regras de negócio**.
+- Integração com serviços externos e suporte à infraestrutura em **AWS**.
+- Participação ativa na definição técnica das features e evolução arquitetural do sistema.
 
-**Atividades Desenvolvidas:**
-- Desenvolvimento web FullStack.
-- Desenvolvimento de página para controle de cadastros da empresa utilizando React, SQL e Laravel.
-- Desenvolvimento de página institucional utilizando HTML, CSS e JavaScript.
-- Desenvolvimento de split de pagamentos.
-- Participação na criação das especificações das páginas web.
-- Participação no recrutamento e seleção de membros para equipe.
-- Participação na criação de identidade visual da empresa, incluindo banners, logotipo e paleta de cores.
-- Configuração de hospedagem na Hostinger.
-- Análise e planejamento de negócios.
-- Gerência de projetos web e mobile.
+**Stack principal:**  
+Java 21 · Spring Boot · JPA · PostgreSQL · XML · XSD · JAXB · REST · SOAP · AWS
 
+---
+
+### 💻 Mayk Soluções — Desenvolvedor de Sistemas  
+**Outubro de 2024 – Dezembro de 2024 | Recife/PE | Presencial**
+
+Atuação com foco em **automação de processos**, desenvolvimento web e análise de dados.
+
+**Destaques:**
+- Desenvolvimento de **microsserviços com Spring Boot**.
+- Backend em Java integrando **SQL e NoSQL**.
+- Automação de processos com **Python + Excel**, gerando relatórios e dashboards estratégicos.
+- Desenvolvimento e manutenção de sistemas em **Laravel (PHP)**.
+- Criação de interfaces com **React** e evolução de CRM em **Angular**.
+- Supervisão técnica de estagiário e apoio em decisões técnicas.
+
+---
+
+### 🗄️ Mayk Soluções — Administrador de Sistemas e Banco de Dados  
+**Setembro de 2023 – Setembro de 2024 | Recife/PE | Presencial**
+
+- Automação de rotinas de banco de dados com **Python**.
+- Automação avançada em **Excel (Python + VBA)**.
+- Criação de microsserviços com **Spring Boot**.
+- Web scraping para coleta de dados estratégicos.
+- Configuração de **VPN Site-to-Site**, IPsec e mapeamento de rede.
+- Criação de dashboards gerenciais e relatórios de vendas totalmente automatizados.
+- Suporte em infraestrutura e redes.
+
+---
+
+### 🛠️ Mayk Soluções — Estagiário de TI  
+**Fevereiro de 2023 – Setembro de 2023 | Recife/PE**
+
+- Suporte técnico presencial e remoto (helpdesk).
+- Manutenção de hardware e instalação de softwares.
+- Apoio em redes, VPNs, IPsec e ADVPN.
+- Monitoramento de eventos de segurança e infraestrutura.
+
+---
+
+### 🚀 YouPop — Desenvolvedor Web (Freelance)  
+**Novembro de 2022 – Janeiro de 2023 | Remoto**
+
+- Desenvolvimento **Full Stack**.
+- React + Laravel + SQL.
+- Páginas institucionais (HTML, CSS, JavaScript).
+- Configuração de hospedagem.
+- Apoio em planejamento de produto e identidade visual.
+
+---
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Backend**
+- Java · Spring Boot · Spring Data · JPA · Hibernate
+- REST · SOAP · XML · XSD · JAXB
+- PostgreSQL · MySQL · MariaDB
 
-## 🧰 Ferramentas de Desenvolvimento
+**Frontend**
+- React · Angular
+- HTML · CSS · JavaScript · TypeScript
 
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+**Automação & Dados**
+- Python
+- Excel avançado · VBA
+- Dashboards e relatórios automatizados
 
-## ☁️ DevOps
+**DevOps & Infra**
+- Git · GitHub · Bitbucket
+- Docker
+- AWS
+- VPN · Redes · Infraestrutura
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+---
+
+## 🧰 Ferramentas
+
+VS Code · IntelliJ IDEA · Eclipse · PHPStorm · WebStorm
+
+---
+
 
 ## 📈 GitHub Stats
 
@@ -151,3 +158,4 @@ Infraestrutura de tecnologia da informação · Suporte técnico · Solução de
 
 ![Ciência de Dados](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
+> Curioso por sistemas complexos, apaixonado por automação, arquitetura limpa e problemas difíceis de verdade.
